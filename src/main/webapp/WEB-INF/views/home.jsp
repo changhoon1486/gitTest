@@ -18,6 +18,8 @@
 	<p>브랜치 초기화 - 특정 지점으로 완전히 초기화 한다.</p>
 	<p>reverse commit</p>
 	<button>click</button>
+	
+	<p>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</p>
 </body>
 <script>
 	$("p").click(function () {
